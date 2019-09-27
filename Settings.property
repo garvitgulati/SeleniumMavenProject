@@ -1,0 +1,4 @@
+url=https://www.magneticautomation.in/2019/01/alert-example.html
+browser=chrome
+search=//*[@id="sb_form_q"]
+searchButton=//*[@id="sb_form_go"]
